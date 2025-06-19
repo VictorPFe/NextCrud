@@ -82,5 +82,4 @@ MIT License © JovemDev
 
 ## Contato
 
-Seu nome — seu.email@example.com  
 [LinkedIn](https://linkedin.com/in/victor-pessoa-dev) | [GitHub](https://github.com/VictorPFe)
